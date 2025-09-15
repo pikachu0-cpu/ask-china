@@ -5,8 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8141155-9d24-4e7f-80d4-b259cb6e338b" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/../accessible-astro-starter" beforeDir="false" afterPath="$PROJECT_DIR$/../accessible-astro-starter" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pure/components/pages/Hero.astro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pure/components/pages/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/pure/components/pages/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/pure/utils/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/pure/utils/server.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/content.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/3d-rendering/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/3d-rendering/nikola-arsov-still-life-interior-design-vray-3ds-max-05-930px.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/3d-rendering/thanos-dd-single-image-004a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/3d-rendering/thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/customize/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/customize/thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/improve-concentration/index.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/improve-concentration/thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/markdown-zh/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/markdown-zh/thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/markdown/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/markdown/thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/music-journey/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/music-journey/thumbnail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/blog/using-mdx.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/advanced/customize.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/advanced/faq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/advanced/optimize.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/advanced/thanks.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/advanced/update.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/integrations/advanced.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/integrations/code.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/integrations/comment.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/integrations/components.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/integrations/links.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/integrations/others.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/integrations/unocss.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/setup/configuration.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/setup/content.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/setup/deployment.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/docs/setup/getting-started.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/BlogPost.astro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/blog/[...id].astro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/blog/[...page].astro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/docs/DocsContents.astro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/docs/[...id].astro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/docs/index.astro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/docs/rss.xml.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/rss.xml.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/tags/[tag]/[...page].astro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/tags/index.astro" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +58,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -23,28 +67,30 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="32XBlGtKK9vDgX6v7ybXMc2XU2i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Pika/Code/astro-starter/astro-theme-pure&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\Pika\\Code\\astro-starter\\astro-theme-pure\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Pika/Code/astro-starter/astro-theme-pure",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "D:\\Pika\\Code\\astro-starter\\astro-theme-pure\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -72,6 +118,7 @@
       <workItem from="1757672303470" duration="77000" />
       <workItem from="1757896885170" duration="795000" />
       <workItem from="1757899246291" duration="29000" />
+      <workItem from="1757899290525" duration="2108000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -81,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757899138241</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1757899344838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757899344838</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
