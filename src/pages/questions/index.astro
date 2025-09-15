@@ -1,0 +1,21 @@
+---
+import { cn } from 'astro-pure/utils'
+import PageLayout from '@/layouts/BaseLayout.astro'
+import { integ } from '@/site-config'
+
+import QuestionsContents from './QuestionsContents.astro'
+
+const meta = {
+  title: 'Questions',
+  description: 'Questions about living or traveling in China'
+}
+---
+
+<PageLayout {meta}>
+  <main class='mt-6 lg:mt-10'>
+    <div id='content' class={cn('animate mt-8 max-w-none md:min-w-[45ch]', integ.typography.class)}>
+      <h2 class='text-xl font-medium'>Questions</h2>
+      <QuestionsContents title={false} />
+    </div>
+  </main>
+</PageLayout>
